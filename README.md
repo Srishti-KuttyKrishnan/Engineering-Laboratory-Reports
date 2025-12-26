@@ -2,6 +2,8 @@
 Laboratory experiments in the fields of fluid dynamics, experimental physics and thermodynamics.
 
 
+This repository has the following structure:
+```
 engineering-laboratory-reports/
 │
 ├── README.md
@@ -21,3 +23,4 @@ engineering-laboratory-reports/
 ├── thermodynamics/
 │   ├── thermal_expansion.pdf
 │   └── README.md
+```
